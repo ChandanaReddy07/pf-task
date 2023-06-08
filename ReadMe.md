@@ -24,15 +24,15 @@ The application follows the following steps to generate the balance sheet:
 
    ```shell
    npm install
-5.Prepare your input data by creating a JSON. Let's assume you saved it as input.json in the project directory.
-6.Now run node app by running the command
+ 5.Prepare your input data by creating a JSON. Let's assume you saved it as input.json in the project directory.
+ 6.Now run node app by running the command
 
 
    ```shell
    node .\balancesheet.js
    ```
    
-7.Once the execution is complete, a new file named output.json will be created in the project directory. This file will contain the generated balance sheet.
+ 7.Once the execution is complete, a new file named output.json will be created in the project directory. This file will contain the generated balance sheet.
 
 
 
